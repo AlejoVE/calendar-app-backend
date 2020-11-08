@@ -3,11 +3,16 @@ const mongoose = require('mongoose');
 const dbConnection =  async () => {
      try {
         // mongoose.connect('process.env.DB_CNN', {useNewUrlParser: true, useUnifiedTopology: true});
-        await mongoose.connect('mongodb://localhost:27017/mern_calendar', {
+        await mongoose.connect('process.env.DB_CNN', {
             useNewUrlParser: true, 
             useUnifiedTopology: true,
             useCreateIndex: true
         });
+        // await mongoose.connect('mongodb://localhost:27017/mern_calendar', {
+        //     useNewUrlParser: true, 
+        //     useUnifiedTopology: true,
+        //     useCreateIndex: true
+        // });
 
         console.log('DB online')
         
