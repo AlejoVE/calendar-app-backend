@@ -237,7 +237,7 @@ A json object for the deleted event with `ok` and `msg`.
 
 ## Developer
 
--  [Luis Alejandro Montilla](https://github.com/AlejoVE)
+-  [Alejandro Montilla](https://github.com/AlejoVE)
 
 ## License
 
