@@ -1,8 +1,10 @@
 # Calendar-App Backend
 
+## You can check the app [here](https://calendar-app-mern.netlify.app/)
+
 This is the back-end of Calendar-App, a cooperative calendar application that can be used by teams.
 
-## You can check the app [here](https://calendar-app-mern.netlify.app/)
+#### Check the [front-end documentation](https://github.com/AlejoVE/Calendar-app-MERN)
 
 ## **Database design**
 
@@ -236,3 +238,7 @@ A json object for the deleted event with `ok` and `msg`.
 ## Developer
 
 -  [Luis Alejandro Montilla](https://github.com/AlejoVE)
+
+## License
+
+MIT License
