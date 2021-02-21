@@ -39,7 +39,7 @@ JWT_SECRET_SEED=$long_random_characters
 -  To run in development: `npm run dev`
 -  To run in production: `npm start`
 
-### **API endpoints**
+## **API endpoints**
 
 ---
 
